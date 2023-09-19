@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# My Todo List App
 
 This app helps to prioritize your day!
 My first project as a React Developer. 
