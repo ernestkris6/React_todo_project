@@ -1,5 +1,5 @@
 see# My First React Project.
-# My Todo List App
+# Todo List App
 
 This app helps to prioritize your day!!
 My first project as a React Developer. 
