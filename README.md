@@ -1,7 +1,7 @@
 see# My First React Project.
 # Todo List App
 
-This app helps to prioritize your day!
+This app helps to prioritize your day.
 My first project as a React Developer
 Bootstrap, Fontawesome
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
