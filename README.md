@@ -1,4 +1,4 @@
-see# My First React Project.
+# My First React Project.
 # Todo List App
 
 This app helps to prioritize your day.
