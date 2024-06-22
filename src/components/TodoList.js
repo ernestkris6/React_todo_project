@@ -13,11 +13,11 @@ export default class TodoList extends Component {
                 <h3 className='text-capitalize text-center'>
                     Todo List
                 </h3>
-              {items.map(item=>{
+              {items.map(item=> {
                 return <TodoItem 
                 handleDelete={()=>handleDelete(item.id)}
                 handleEdit={()=> handleEdit(item.id)}
-                key={items.id} 
+                key={item.id} 
                 title={item.item}
                  />
               })}

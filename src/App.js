@@ -22,6 +22,8 @@ export default class App extends Component {
   handleSubmit = e => {
     e.preventDefault();
 
+    
+
     const newItem = {
       id : this.state.id,
       item : this.state.item
@@ -33,7 +35,8 @@ export default class App extends Component {
       items : updatedItems,
       id : this.state.id +1,
       item : "",
-      editItem : false
+      editItem : false,
+      
     })
   }
 
