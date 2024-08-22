@@ -29,7 +29,10 @@ export default class App extends Component {
       item : this.state.item
     }
 
+    if(!this.state.item) return;
+
     const updatedItems = [...this.state.items, newItem];
+
 
     this.setState({
       items : updatedItems,
